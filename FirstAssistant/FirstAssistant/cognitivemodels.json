@@ -1,0 +1,35 @@
+{
+  "cognitiveModels": {
+    "en": {
+      "dispatchModel": {
+        "authoringkey": "1d4856d56b274174aa823b244d4ba465",
+        "appid": "9a03bbdc-6eb4-4a27-9cce-1f2638806a53",
+        "name": "KATAssistant-luis",
+        "subscriptionkey": "88cb46f1-c8c8-4de8-a347-a5806366a50c",
+        "region": "westus"
+      },
+      "languageModels": [
+        {
+          "subscriptionkey": "88cb46f1-c8c8-4de8-a347-a5806366a50c",
+          "appid": "9a03bbdc-6eb4-4a27-9cce-1f2638806a53",
+          "id": "",
+          "version": "",
+          "region": "westus",
+          "name": "KATAssistant-luis",
+          "authoringkey": "1d4856d56b274174aa823b244d4ba465"
+        }
+      ],
+      "knowledgebases": [
+        {
+          "endpointKey": "1c33b6e8-d140-4425-8240-419bda47e52b",
+          "kbId": "3d2cd4fe-d981-4c24-8071-902aa92b8979",
+          "hostname": "https://katbotkb.azurewebsites.net/qnamaker",
+          "subscriptionKey": "88cb46f1-c8c8-4de8-a347-a5806366a50c",
+          "name": "katbot_kb_data",
+          "id": ""
+        }        
+      ]
+    }
+  },
+  "defaultLocale": "en-us"
+}
