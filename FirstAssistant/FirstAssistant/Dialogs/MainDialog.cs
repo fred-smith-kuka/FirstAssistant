@@ -176,11 +176,79 @@ namespace FirstAssistant.Dialogs
                     }
                 }
             }
+            else if (intent == DispatchLuis.Intent.q_katbot_kb)
+            {
+                cognitiveModels.QnAServices.TryGetValue("katbot_kb", out var qnaService);
+
+                if (qnaService == null)
+                {
+                    throw new Exception("The specified QnA Maker Service could not be found in your Bot Services configuration.");
+                }
+                else
+                {
+                    var answers = await qnaService.GetAnswersAsync(dc.Context, null, null);
+
+                    if (answers != null && answers.Count() > 0)
+                    {
+                        //if (answers[0].Questions.Count() > 1)
+                        //{
+                        //    await dc.Context.SendActivityAsync("Try one of these searches instead...", speak: answers[0].Answer);
+                        //    for (int i = 0; i < answers[0].Questions.Count(); i++)
+                        //    {
+                        //        var myanswer = string.Concat("... '",answers[0].Questions[i],"'");
+                        //        await dc.Context.SendActivityAsync(myanswer, speak: myanswer);
+                        //    }
+                        //}
+                        //else
+                        //{
+                        await dc.Context.SendActivityAsync(answers[0].Answer, speak: answers[0].Answer);
+                        //}
+                    }
+                    else
+                    {
+                        await _responder.ReplyWith(dc.Context, MainResponses.ResponseIds.Confused);
+                    }
+                }
+            }
             else
             {
                 // If dispatch intent does not map to configured models, send "confused" response.
                 // Alternatively as a form of backup you can try QnAMaker for anything not understood by dispatch.
-                await _responder.ReplyWith(dc.Context, MainResponses.ResponseIds.Confused);
+                ///await _responder.ReplyWith(dc.Context, MainResponses.ResponseIds.Confused);
+
+                //kat assistant and last resort
+                cognitiveModels.QnAServices.TryGetValue("katbot_kb", out var qnaService);
+
+                if (qnaService == null)
+                {
+                    throw new Exception("The specified QnA Maker Service could not be found in your Bot Services configuration.");
+                }
+                else
+                {
+                    var answers = await qnaService.GetAnswersAsync(dc.Context, null, null);
+
+                    if (answers != null && answers.Count() > 0)
+                    {
+                        //if (answers[0].Questions.Count() > 1)
+                        //{
+                        //    await dc.Context.SendActivityAsync("Try one of these searches instead...", speak: answers[0].Answer);
+                        //    for (int i = 0; i < answers[0].Questions.Count(); i++)
+                        //    {
+                        //        var myanswer = string.Concat("... '",answers[0].Questions[i],"'");
+                        //        await dc.Context.SendActivityAsync(myanswer, speak: myanswer);
+                        //    }
+                        //}
+                        //else
+                        //{
+                        await dc.Context.SendActivityAsync(answers[0].Answer, speak: answers[0].Answer);
+                        //}
+                    }
+                    else
+                    {
+                        await _responder.ReplyWith(dc.Context, MainResponses.ResponseIds.Confused);
+                    }
+                }
+
             }
         }
 

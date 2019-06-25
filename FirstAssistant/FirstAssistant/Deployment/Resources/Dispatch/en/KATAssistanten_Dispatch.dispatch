@@ -1,0 +1,56 @@
+{
+  "authoringRegion": "westus",
+  "culture": "en-us",
+  "hierarchical": true,
+  "useAllTrainingData": false,
+  "dontReviseUtterance": false,
+  "copyLuisData": true,
+  "services": [
+    {
+      "intentName": "l_general",
+      "appId": "b6acf3be-a6e9-4033-9bf4-42484154d4f2",
+      "authoringKey": "1d4856d56b274174aa823b244d4ba465",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "KATAssistanten_general",
+      "id": "1"
+    },
+    {
+      "intentName": "q_chitchat",
+      "kbId": "a3c6c0be-4fac-42d0-b4ef-a614b77f0cae",
+      "subscriptionKey": "1379939522f8491484a210b26c331825",
+      "type": "qna",
+      "name": "chitchat",
+      "id": "2"
+    },
+    {
+      "intentName": "q_faq",
+      "kbId": "8d20c84c-241a-4c02-a3b9-0a7dfb198de5",
+      "subscriptionKey": "1379939522f8491484a210b26c331825",
+      "type": "qna",
+      "name": "faq",
+      "id": "3"
+    },
+    {
+      "intentName": "q_kat-kb",
+      "kbId": "3d2cd4fe-d981-4c24-8071-902aa92b8979",
+      "subscriptionKey": "",
+      "type": "qna",
+      "name": "katbot_kb_data",
+      "id": "4"
+    }
+  ],
+  "serviceIds": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "appId": "5b5bc801-50ce-4b67-8704-6819fa7121fb",
+  "authoringKey": "1d4856d56b274174aa823b244d4ba465",
+  "version": "Dispatch",
+  "region": "westus",
+  "type": "dispatch",
+  "name": "KATAssistanten_Dispatch"
+}

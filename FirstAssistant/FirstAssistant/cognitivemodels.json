@@ -1,34 +1,51 @@
 {
   "cognitiveModels": {
     "en": {
-      "dispatchModel": {
-        "authoringkey": "1d4856d56b274174aa823b244d4ba465",
-        "appid": "9a03bbdc-6eb4-4a27-9cce-1f2638806a53",
-        "name": "KATAssistant-luis",
-        "subscriptionkey": "88cb46f1-c8c8-4de8-a347-a5806366a50c",
-        "region": "westus"
-      },
       "languageModels": [
         {
-          "subscriptionkey": "88cb46f1-c8c8-4de8-a347-a5806366a50c",
-          "appid": "9a03bbdc-6eb4-4a27-9cce-1f2638806a53",
-          "id": "",
-          "version": "",
+          "appid": "b6acf3be-a6e9-4033-9bf4-42484154d4f2",
+          "id": "general",
           "region": "westus",
-          "name": "KATAssistant-luis",
-          "authoringkey": "1d4856d56b274174aa823b244d4ba465"
+          "subscriptionkey": "1d4856d56b274174aa823b244d4ba465",
+          "version": "0.1",
+          "authoringkey": "1d4856d56b274174aa823b244d4ba465",
+          "name": "KATAssistanten_general"
         }
       ],
       "knowledgebases": [
         {
-          "endpointKey": "1c33b6e8-d140-4425-8240-419bda47e52b",
+          "id": "chitchat",
+          "kbId": "a3c6c0be-4fac-42d0-b4ef-a614b77f0cae",
+          "subscriptionKey": "1379939522f8491484a210b26c331825",
+          "hostname": "https://katassistant-qnahost.azurewebsites.net",
+          "endpointKey": "719a58d6-4515-4c17-86de-7d0c8400ab72",
+          "name": "chitchat"
+        },
+        {
+          "id": "faq",
+          "kbId": "8d20c84c-241a-4c02-a3b9-0a7dfb198de5",
+          "subscriptionKey": "1379939522f8491484a210b26c331825",
+          "hostname": "https://katassistant-qnahost.azurewebsites.net",
+          "endpointKey": "719a58d6-4515-4c17-86de-7d0c8400ab72",
+          "name": "faq"
+        },
+        {
+          "id": "katbot_kb",
           "kbId": "3d2cd4fe-d981-4c24-8071-902aa92b8979",
-          "hostname": "https://katbotkb.azurewebsites.net/qnamaker",
-          "subscriptionKey": "88cb46f1-c8c8-4de8-a347-a5806366a50c",
-          "name": "katbot_kb_data",
-          "id": ""
-        }        
-      ]
+          "subscriptionKey": "87435d3e222e4eff9c8d6e865ccf9fa8",
+          "hostname": " https://katbotkb.azurewebsites.net/qnamaker",
+          "endpointKey": "1c33b6e8-d140-4425-8240-419bda47e52b",
+          "name": "katbot_kb_data"
+        }
+      ],
+      "dispatchModel": {
+        "appid": "5b5bc801-50ce-4b67-8704-6819fa7121fb",
+        "type": "dispatch",
+        "subscriptionkey": "1d4856d56b274174aa823b244d4ba465",
+        "region": "westus",
+        "authoringkey": "1d4856d56b274174aa823b244d4ba465",
+        "name": "KATAssistanten_Dispatch"
+      }
     }
   },
   "defaultLocale": "en-us"
