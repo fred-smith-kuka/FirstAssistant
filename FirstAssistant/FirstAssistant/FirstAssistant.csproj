@@ -5,7 +5,8 @@
     <NoWarn>NU1701</NoWarn>
     <RestoreAdditionalProjectSources>
       https://botbuilder.myget.org/F/experimental/api/v3/index.json;
-    </RestoreAdditionalProjectSources>   
+    </RestoreAdditionalProjectSources>
+    <UserSecretsId>2d96f129-5286-4c51-8a3b-5cc74de0cbc5</UserSecretsId>   
   </PropertyGroup>
 
   <ItemGroup>
