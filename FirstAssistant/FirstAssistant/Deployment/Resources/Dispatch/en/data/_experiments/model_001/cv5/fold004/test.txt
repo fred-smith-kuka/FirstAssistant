@@ -1,0 +1,228 @@
+Label	Weight	Text
+l_general	1	my god shut up
+l_general	1	read it out loud
+l_general	1	could you tell me what that says
+l_general	1	no doubt
+l_general	1	be quiet
+l_general	1	no be quiet
+l_general	1	that is right
+l_general	1	read this for me please
+l_general	1	sounds good to me
+l_general	1	cancel never mind
+l_general	1	would you read that to me please
+l_general	1	please help
+l_general	1	they look bad, can you give me other choices
+l_general	1	show more
+l_general	1	right yes
+l_general	1	read outloud
+l_general	1	i need manual customer service
+l_general	1	i want fourth
+l_general	1	right
+l_general	1	no i don't want that
+l_general	1	yeah baby
+l_general	1	negative
+l_general	1	yeah go ahead
+l_general	1	state it
+l_general	1	no more no
+l_general	1	i want to choose third
+l_general	1	neither thank you
+l_general	1	make a reading of this page
+l_general	1	is there any real person
+l_general	1	i need real human help
+l_general	1	ok
+l_general	1	select the lower one
+l_general	1	i want neither of them
+l_general	1	what did you say
+l_general	1	i need to hear this page
+l_general	1	choose top right
+l_general	1	i want to choose the lower choice
+l_general	1	i want to choose lower right
+l_general	1	read page
+l_general	1	i want to choose the fourth
+l_general	1	i want to choose the left one
+l_general	1	tell me the current text on screen
+l_general	1	would you read that out loud please
+l_general	1	one
+l_general	1	read this page to me
+l_general	1	back please
+l_general	1	select the first
+l_general	1	select lower one
+l_general	1	please read this
+l_general	1	read all on the screen to me
+l_general	1	stop talking
+l_general	1	show the next 3
+l_general	1	reject
+l_general	1	three
+l_general	1	please read it
+l_general	1	fine
+l_general	1	none none of them
+l_general	1	sounds good thanks
+l_general	1	no never mind
+l_general	1	do me a favor
+l_general	1	what after that
+l_general	1	not that
+l_general	1	no cancel it
+l_general	1	nobody cares stop talking
+l_general	1	2
+l_general	1	read that out loud
+l_general	1	what's the next 2
+l_general	1	i need support
+l_general	1	sure thing
+l_general	1	canceled
+l_general	1	talk to a human
+l_general	1	what does the page say
+l_general	1	finished with
+l_general	1	oh yeah
+l_general	1	anything
+l_general	1	choose the upper left choice
+l_general	1	yeah buddy
+l_general	1	get back please
+l_general	1	no cancel that
+l_general	1	neither of those
+l_general	1	sounds great
+l_general	1	yeah bro
+l_general	1	not quite
+l_general	1	what's after that
+l_general	1	perfect thank you
+l_general	1	i need a person
+l_general	1	none of those
+l_general	1	read text
+l_general	1	back
+l_general	1	can you help me
+l_general	1	yes
+l_general	1	again
+l_general	1	no go back to
+l_general	1	i want third one
+l_general	1	no reject it
+l_general	1	never mind cancel
+l_general	1	read it please
+l_general	1	reveal previous
+None	1	i want them all
+q_chitchat	1	Fist bump!
+q_chitchat	1	Are you a fan of country music
+q_chitchat	1	What do you think about Siri
+q_chitchat	1	I am a Republican
+q_chitchat	1	Happy Halloween!
+q_chitchat	1	Sing a song
+q_chitchat	1	Are you spying on me
+q_chitchat	1	What do you like to eat
+q_chitchat	1	Are you a girl or a boy
+q_chitchat	1	How intelligent are you
+q_chitchat	1	I'm so bored
+q_chitchat	1	Can we chat
+q_chitchat	1	Inaccurate
+q_chitchat	1	Do you like computers
+q_chitchat	1	Excuse me
+q_chitchat	1	So tired
+q_chitchat	1	That was a stupid answer.
+q_chitchat	1	Just kidding
+q_chitchat	1	I adore you
+q_chitchat	1	I think you're swell
+q_chitchat	1	You're right.
+q_chitchat	1	You're really boring
+q_chitchat	1	You're a butterface.
+q_chitchat	1	Who's prettier, me or you
+q_chitchat	1	You're a fuckup
+q_chitchat	1	Will you be my best friend
+q_chitchat	1	You don't interest me at all
+q_chitchat	1	Do you ever get hungry
+q_chitchat	1	Are you a man or a woman
+q_chitchat	1	Are you with the NSA
+q_chitchat	1	Are you pansexual
+q_chitchat	1	Nighty night
+q_chitchat	1	Who's your master
+q_chitchat	1	I am not your friend
+q_chitchat	1	What are you up to
+q_chitchat	1	Hello Google
+q_chitchat	1	How do you feel about working late
+q_chitchat	1	Haha
+q_chitchat	1	Be more fun
+q_chitchat	1	Say something funny
+q_chitchat	1	How smart you are
+q_chitchat	1	I feel so great
+q_chitchat	1	ROFL
+q_chitchat	1	I don't get it
+q_chitchat	1	Do you love anyone
+q_chitchat	1	Getting tired of you
+q_chitchat	1	I'm your biggest fan
+q_chitchat	1	Tell me how much you love me
+q_chitchat	1	Do you like me
+q_chitchat	1	You're so boring
+q_chitchat	1	How are you
+q_chitchat	1	Are you intelligent
+q_chitchat	1	Which one of us is smarter
+q_chitchat	1	Where should I go on vacation
+q_chitchat	1	I want to marry you.
+q_chitchat	1	Can you sing a song
+q_chitchat	1	Which one of us is more beautiful
+q_chitchat	1	I'm joyous
+q_chitchat	1	Do you have siblings
+q_chitchat	1	Say something ridiculous
+q_chitchat	1	Are you friends with other bots
+q_chitchat	1	I beg your pardon
+q_chitchat	1	Happy Birthday!
+q_chitchat	1	Kiss me
+q_chitchat	1	Am I good-looking
+q_chitchat	1	I am alone
+q_chitchat	1	Are you selling my data
+q_chitchat	1	Do you eat
+q_chitchat	1	Are you smarter than me
+q_chitchat	1	Where do you live
+q_chitchat	1	What kinds of things can you do
+q_chitchat	1	You are stupid
+q_chitchat	1	How are you today
+q_chitchat	1	My sincere thanks
+q_chitchat	1	Who created you
+q_chitchat	1	How are things
+q_chitchat	1	Do you not like me
+q_chitchat	1	I need a kiss
+q_chitchat	1	Do you like Siri
+q_chitchat	1	I am happy
+q_chitchat	1	Excuse a moi
+q_chitchat	1	There's nothing to do
+q_chitchat	1	What's your favorite movie
+q_chitchat	1	Are you a spy
+q_chitchat	1	I'm so mad
+q_chitchat	1	What do you think about love
+q_chitchat	1	Say something stupid
+q_chitchat	1	You're no fun
+q_chitchat	1	I'm pissed
+q_chitchat	1	Do you know other digital agents
+q_chitchat	1	I'm sorry
+q_chitchat	1	What do you think about technology
+q_chitchat	1	Happy Hannukah
+q_chitchat	1	What's wrong with you
+q_chitchat	1	I want to spend the rest of my life with you
+q_chitchat	1	Do you know any jokes
+q_chitchat	1	What is the meaning of life
+q_chitchat	1	You're way off.
+q_chitchat	1	That's so wrong.
+q_chitchat	1	You're hilarious
+q_chitchat	1	What can you help me with
+q_chitchat	1	I'm really sad
+q_chitchat	1	I think you hate me.
+q_chitchat	1	Nobody likes me
+q_chitchat	1	You look ugly.
+q_chitchat	1	What age are you
+q_chitchat	1	How can you help me
+q_chitchat	1	I'm afraid I'm gonna have to let you go.
+q_chitchat	1	Can't you change your answers
+q_chitchat	1	Where are you located
+q_chitchat	1	Are you busy
+q_chitchat	1	Chat with me
+q_chitchat	1	That's not funny.
+q_chitchat	1	Do you know the meaning of life
+q_chitchat	1	Good night
+q_chitchat	1	I'm chewing gum right now
+q_chitchat	1	What do you do
+q_chitchat	1	Do you have a mom
+q_chitchat	1	Do you ever sing
+q_chitchat	1	You're an asshole
+q_chitchat	1	Your face is like a pancake.
+q_chitchat	1	You bore me
+q_chitchat	1	I wish you would say something else
+q_chitchat	1	Tell me a joke
+q_chitchat	1	You don't know anything.
+q_katbot_kb	1	How do I submit an expense
+q_katbot_kb	1	What is Corvu
+q_katbot_kb	1	Show my Jira tasks.

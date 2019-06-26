@@ -1,0 +1,213 @@
+{
+  "qnaDocuments": [
+    {
+      "id": 4,
+      "answer": "Jira users are added through the KAT Request, Jira User Maintenance process which can be started [HERE](https://kukaatus.atlassian.net/secure/CreateIssueDetails%21init.jspa?pid=10016&issuetype=10109&priority=3)",
+      "source": "Editorial",
+      "questions": [
+        "How do I add a Jira user?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "05607834-9c69-49cf-b28c-00fa1a233a78",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 5,
+      "answer": "Information about Expenses can be found on our HR page [HERE](https://kuka.sharepoint.com/sites/Americas-KATSharepoint/KAT_HR/SitePages/Expenses.aspx)",
+      "source": "Editorial",
+      "questions": [
+        "How do I submit an expense?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "05607834-9c69-49cf-b28c-00fa1a233a78",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 6,
+      "answer": "Hello KAT user! How may I help you?",
+      "source": "Editorial",
+      "questions": [
+        "Hi",
+        "Hello"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "05607834-9c69-49cf-b28c-00fa1a233a78",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 7,
+      "answer": "The KAT Jira page is here.\n\n[![KAT Jira Dashboard](https://katbotfiles.blob.core.windows.net/images/jira-software-logo.jpg)](https://kukaatus.atlassian.net/secure/Dashboard.jspa?selectPageId=10000)\n\n",
+      "source": "Editorial",
+      "questions": [
+        "Where is Jira?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "05607834-9c69-49cf-b28c-00fa1a233a78",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 8,
+      "answer": "You can view your assigned tasks [HERE](https://kukaatus.atlassian.net/issues/?filter=-1)",
+      "source": "Editorial",
+      "questions": [
+        "What tasks do I have in Jira?",
+        "Show my Jira tasks."
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "05607834-9c69-49cf-b28c-00fa1a233a78",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 9,
+      "answer": "lets count",
+      "source": "Editorial",
+      "questions": [
+        "count for me"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "05607834-9c69-49cf-b28c-00fa1a233a78",
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 10,
+            "qna": {
+              "id": 10,
+              "answer": "number one",
+              "source": "Editorial",
+              "questions": [
+                "one"
+              ],
+              "metadata": [],
+              "alternateQuestions": "",
+              "alternateQuestionClusters": [],
+              "changeStatus": "NoChange",
+              "kbId": "05607834-9c69-49cf-b28c-00fa1a233a78",
+              "context": {
+                "isContextOnly": false,
+                "prompts": []
+              }
+            },
+            "displayText": "one"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 11,
+            "qna": {
+              "id": 11,
+              "answer": "number 2",
+              "source": "Editorial",
+              "questions": [
+                "two"
+              ],
+              "metadata": [],
+              "alternateQuestions": "",
+              "alternateQuestionClusters": [],
+              "changeStatus": "NoChange",
+              "kbId": "05607834-9c69-49cf-b28c-00fa1a233a78",
+              "context": {
+                "isContextOnly": false,
+                "prompts": []
+              }
+            },
+            "displayText": "two"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 12,
+            "qna": {
+              "id": 12,
+              "answer": "number three",
+              "source": "Editorial",
+              "questions": [
+                "three"
+              ],
+              "metadata": [],
+              "alternateQuestions": "",
+              "alternateQuestionClusters": [],
+              "changeStatus": "NoChange",
+              "kbId": "05607834-9c69-49cf-b28c-00fa1a233a78",
+              "context": {
+                "isContextOnly": false,
+                "prompts": []
+              }
+            },
+            "displayText": "three"
+          }
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "answer": "Encompix is the KAT ERP system.",
+      "source": "Editorial",
+      "questions": [
+        "what is encompix?",
+        "encompix"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "05607834-9c69-49cf-b28c-00fa1a233a78",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 14,
+      "answer": "Corvu is the reporting applications used at KAT.",
+      "source": "Editorial",
+      "questions": [
+        "What is Corvu",
+        "corvu",
+        "reports",
+        "reporting"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "05607834-9c69-49cf-b28c-00fa1a233a78",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    }
+  ]
+}

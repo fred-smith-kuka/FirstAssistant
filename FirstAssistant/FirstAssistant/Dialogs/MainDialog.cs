@@ -126,33 +126,9 @@ namespace FirstAssistant.Dialogs
                         default:
                             {
                                 // No intent was identified, send confused message
-                                await _responder.ReplyWith(dc.Context, "Nothing in General"); // MainResponses.ResponseIds.Confused);
+                                await _responder.ReplyWith(dc.Context, MainResponses.ResponseIds.Confused);
                                 break;
                             }
-                    }
-                }
-            }
-            else if (intent == DispatchLuis.Intent.q_faq)
-            {
-                cognitiveModels.QnAServices.TryGetValue("faq", out var qnaService);
-
-                if (qnaService == null)
-                {
-                    throw new Exception("The specified QnA Maker Service could not be found in your Bot Services configuration.");
-                }
-                else
-                {
-                    var answers = await qnaService.GetAnswersAsync(dc.Context, null, null);
-
-                    if (answers != null && answers.Count() > 0)
-                    {
-                        //await dc.Context.SendActivityAsync("faq", "faq");
-                        await dc.Context.SendActivityAsync(answers[0].Answer, speak: answers[0].Answer);
-                    }
-                    else
-                    {
-                        //await _responder.ReplyWith(dc.Context, "Nothing in faq"); // MainResponses.ResponseIds.Confused);
-                        await _responder.ReplyWith(dc.Context,  MainResponses.ResponseIds.Confused);
                     }
                 }
             }

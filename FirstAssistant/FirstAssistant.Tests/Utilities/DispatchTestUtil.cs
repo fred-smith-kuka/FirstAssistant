@@ -26,7 +26,6 @@ namespace FirstAssistant.Tests.Utilities
             { GeneralUtterances.ShowPrevious, CreateIntent(GeneralUtterances.ShowPrevious, DispatchLuis.Intent.l_general) },
             { GeneralUtterances.StartOver, CreateIntent(GeneralUtterances.StartOver, DispatchLuis.Intent.l_general) },
             { GeneralUtterances.Stop, CreateIntent(GeneralUtterances.Stop, DispatchLuis.Intent.l_general) },
-            { FaqUtterances.Overview, CreateIntent(FaqUtterances.Overview, DispatchLuis.Intent.q_faq) },
             { ChitchatUtterances.Greeting, CreateIntent(ChitchatUtterances.Greeting, DispatchLuis.Intent.q_chitchat) },
         };
 
