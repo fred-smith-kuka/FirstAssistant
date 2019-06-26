@@ -10,11 +10,14 @@
       "name": "q_chitchat"
     },
     {
-      "name": "q_faq"
+      "name": "q_katbot_kb"
     },
     {
-      "name": "q_katbot_kb"
+      "name": "l_general"
     }
+    {
+      "name": "None"
+    }	
   ],
   "entities": [],
   "composites": [],

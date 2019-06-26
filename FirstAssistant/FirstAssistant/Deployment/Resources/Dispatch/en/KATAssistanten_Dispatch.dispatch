@@ -8,19 +8,11 @@
   "services": [
     {
       "intentName": "q_chitchat",
-      "kbId": "c632ab4d-85ba-47ee-a740-9726568f6bea",
+      "kbId": "a3c6c0be-4fac-42d0-b4ef-a614b77f0cae",
       "subscriptionKey": "1379939522f8491484a210b26c331825",
       "type": "qna",
       "name": "chitchat",
       "id": "1"
-    },
-    {
-      "intentName": "q_faq",
-      "kbId": "5ab5863a-4501-4eea-9225-ca53799a4092",
-      "subscriptionKey": "1379939522f8491484a210b26c331825",
-      "type": "qna",
-      "name": "faq",
-      "id": "2"
     },
     {
       "intentName": "q_katbot_kb",
