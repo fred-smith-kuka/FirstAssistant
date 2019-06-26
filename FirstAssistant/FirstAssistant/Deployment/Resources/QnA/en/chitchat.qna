@@ -310,7 +310,7 @@
     },
     {
       "id": 0,
-      "answer": "I do like├é you.",
+      "answer": "I do likeΓö£├⌐ you.",
       "source": "custom editorial",
       "questions": [
         "Do you like me",
@@ -579,7 +579,7 @@
     },
     {
       "id": 0,
-      "answer": "I wouldn├óΓé¼Γäót know how to advise  about this.",
+      "answer": "I wouldnΓö£├│╬ô├⌐┬╝╬ô├ñ├│t know how to advise  about this.",
       "source": "custom editorial",
       "questions": [
         "What should I do",
@@ -1012,7 +1012,7 @@
       "answer": "Noted.",
       "source": "custom editorial",
       "questions": [
-        "You├óΓé¼Γäóre ugly.",
+        "YouΓö£├│╬ô├⌐┬╝╬ô├ñ├│re ugly.",
         "You look ugly.",
         "You are so not pretty.",
         "You face sucks.",

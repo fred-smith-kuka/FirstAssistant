@@ -15,29 +15,20 @@ namespace Luis
         public string Text;
         public string AlteredText;
         public enum Intent {
-            l_general, 
             q_chitchat, 
             q_faq, 
+            q_katbot_kb,
             None,
-            q_katbot_kb
+            l_general
         };
         public Dictionary<Intent, IntentScore> Intents;
 
         public class _Entities
         {
-            // Simple entities
-            public string[] DirectionalReference;
-
-            // Built-in entities
-            public double[] number;
-            public double[] ordinal;
 
             // Instance
             public class _Instance
             {
-                public InstanceData[] DirectionalReference;
-                public InstanceData[] number;
-                public InstanceData[] ordinal;
             }
             [JsonProperty("$instance")]
             public _Instance _instance;

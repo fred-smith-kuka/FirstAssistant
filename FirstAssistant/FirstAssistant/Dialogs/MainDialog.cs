@@ -126,7 +126,7 @@ namespace FirstAssistant.Dialogs
                         default:
                             {
                                 // No intent was identified, send confused message
-                                await _responder.ReplyWith(dc.Context, MainResponses.ResponseIds.Confused);
+                                await _responder.ReplyWith(dc.Context, "Nothing in General"); // MainResponses.ResponseIds.Confused);
                                 break;
                             }
                     }
@@ -146,11 +146,13 @@ namespace FirstAssistant.Dialogs
 
                     if (answers != null && answers.Count() > 0)
                     {
+                        //await dc.Context.SendActivityAsync("faq", "faq");
                         await dc.Context.SendActivityAsync(answers[0].Answer, speak: answers[0].Answer);
                     }
                     else
                     {
-                        await _responder.ReplyWith(dc.Context, MainResponses.ResponseIds.Confused);
+                        //await _responder.ReplyWith(dc.Context, "Nothing in faq"); // MainResponses.ResponseIds.Confused);
+                        await _responder.ReplyWith(dc.Context,  MainResponses.ResponseIds.Confused);
                     }
                 }
             }
@@ -168,10 +170,12 @@ namespace FirstAssistant.Dialogs
 
                     if (answers != null && answers.Count() > 0)
                     {
+                        //await dc.Context.SendActivityAsync("chitchat", "chitchat");
                         await dc.Context.SendActivityAsync(answers[0].Answer, speak: answers[0].Answer);
                     }
                     else
                     {
+                        //await _responder.ReplyWith(dc.Context, "Nothing in chitchat"); //MainResponses.ResponseIds.Confused);
                         await _responder.ReplyWith(dc.Context, MainResponses.ResponseIds.Confused);
                     }
                 }
@@ -201,11 +205,13 @@ namespace FirstAssistant.Dialogs
                         //}
                         //else
                         //{
+                        //await dc.Context.SendActivityAsync("kat", "kat");
                         await dc.Context.SendActivityAsync(answers[0].Answer, speak: answers[0].Answer);
                         //}
                     }
                     else
                     {
+                        //await _responder.ReplyWith(dc.Context, "Nothing in KAT"); // MainResponses.ResponseIds.Confused);
                         await _responder.ReplyWith(dc.Context, MainResponses.ResponseIds.Confused);
                     }
                 }
@@ -240,11 +246,13 @@ namespace FirstAssistant.Dialogs
                         //}
                         //else
                         //{
+                        //await dc.Context.SendActivityAsync("failed all", "failed all");
                         await dc.Context.SendActivityAsync(answers[0].Answer, speak: answers[0].Answer);
                         //}
                     }
                     else
                     {
+                        //await _responder.ReplyWith(dc.Context, "Nothing in any KB"); // MainResponses.ResponseIds.Confused);
                         await _responder.ReplyWith(dc.Context, MainResponses.ResponseIds.Confused);
                     }
                 }

@@ -7,43 +7,24 @@
   "tokenizerVersion": "1.0.0",
   "intents": [
     {
-      "name": "l_general"
-    },
-    {
       "name": "q_chitchat"
     },
     {
       "name": "q_faq"
-    }
-  ],
-  "entities": [
+    },
     {
-      "name": "DirectionalReference",
-      "roles": []
+      "name": "q_katbot_kb"
     }
   ],
+  "entities": [],
   "composites": [],
   "closedLists": [],
   "patternAnyEntities": [],
   "regex_entities": [],
-  "prebuiltEntities": [
-    {
-      "name": "number",
-      "roles": []
-    },
-    {
-      "name": "ordinal",
-      "roles": []
-    }
-  ],
+  "prebuiltEntities": [],
   "model_features": [],
   "regex_features": [],
-  "patterns": [
-    {
-      "pattern": "^(yes|sure)[[,]i want (that|the ({DirectionalReference}|{ordinal}) ({number}|one))]",
-      "intent": "l_general"
-    }
-  ],
+  "patterns": [],
   "utterances": [],
   "settings": [
     {

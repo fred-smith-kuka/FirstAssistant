@@ -1,303 +1,79 @@
-[31m Model                             [39m[31m Type               [39m[31m StatusId [39m[31m Status   [39m[31m          [39m
- Cancel                             Intent Classifier   9         Queued             
- Confirm                            Intent Classifier   9         Queued             
- DirectionalReference               Entity Extractor    9         Queued             
- Escalate                           Intent Classifier   9         Queued             
- FinishTask                         Intent Classifier   9         Queued             
- GoBack                             Intent Classifier   9         Queued             
- Help                               Intent Classifier   9         Queued             
- Logout                             Intent Classifier   9         Queued             
- None                               Intent Classifier   9         Queued             
- ReadAloud                          Intent Classifier   9         Queued             
- Reject                             Intent Classifier   9         Queued             
- Repeat                             Intent Classifier   9         Queued             
- SelectAny                          Intent Classifier   9         Queued             
- SelectItem                         Intent Classifier   9         Queued             
- SelectNone                         Intent Classifier   9         Queued             
- ShowNext                           Intent Classifier   9         Queued             
- ShowPrevious                       Intent Classifier   9         Queued             
- StartOver                          Intent Classifier   9         Queued             
- Stop                               Intent Classifier   9         Queued             
-[31m Model                             [39m[31m Type               [39m[31m StatusId [39m[31m Status   [39m[31m          [39m
- Cancel                             Intent Classifier   3         InProgrΓÇª           
- Confirm                            Intent Classifier   3         InProgrΓÇª           
- DirectionalReference               Entity Extractor    3         InProgrΓÇª           
- Escalate                           Intent Classifier   3         InProgrΓÇª           
- FinishTask                         Intent Classifier   3         InProgrΓÇª           
- GoBack                             Intent Classifier   3         InProgrΓÇª           
- Help                               Intent Classifier   3         InProgrΓÇª           
- Logout                             Intent Classifier   3         InProgrΓÇª           
- None                               Intent Classifier   3         InProgrΓÇª           
- ReadAloud                          Intent Classifier   3         InProgrΓÇª           
- Reject                             Intent Classifier   3         InProgrΓÇª           
- Repeat                             Intent Classifier   3         InProgrΓÇª           
- SelectAny                          Intent Classifier   3         InProgrΓÇª           
- SelectItem                         Intent Classifier   3         InProgrΓÇª           
- SelectNone                         Intent Classifier   3         InProgrΓÇª           
- ShowNext                           Intent Classifier   3         InProgrΓÇª           
- ShowPrevious                       Intent Classifier   3         InProgrΓÇª           
- StartOver                          Intent Classifier   3         InProgrΓÇª           
- Stop                               Intent Classifier   3         InProgrΓÇª           
-[31m Model                             [39m[31m Type               [39m[31m StatusId [39m[31m Status   [39m[31m          [39m
- Cancel                             Intent Classifier   3         InProgrΓÇª           
- Confirm                            Intent Classifier   3         InProgrΓÇª           
- DirectionalReference               Entity Extractor    3         InProgrΓÇª           
- Escalate                           Intent Classifier   3         InProgrΓÇª           
- FinishTask                         Intent Classifier   3         InProgrΓÇª           
- GoBack                             Intent Classifier   3         InProgrΓÇª           
- Help                               Intent Classifier   3         InProgrΓÇª           
- Logout                             Intent Classifier   3         InProgrΓÇª           
- None                               Intent Classifier   3         InProgrΓÇª           
- ReadAloud                          Intent Classifier   3         InProgrΓÇª           
- Reject                             Intent Classifier   3         InProgrΓÇª           
- Repeat                             Intent Classifier   3         InProgrΓÇª           
- SelectAny                          Intent Classifier   3         InProgrΓÇª           
- SelectItem                         Intent Classifier   3         InProgrΓÇª           
- SelectNone                         Intent Classifier   3         InProgrΓÇª           
- ShowNext                           Intent Classifier   3         InProgrΓÇª           
- ShowPrevious                       Intent Classifier   3         InProgrΓÇª           
- StartOver                          Intent Classifier   3         InProgrΓÇª           
- Stop                               Intent Classifier   3         InProgrΓÇª           
-[31m Model                             [39m[31m Type               [39m[31m StatusId [39m[31m Status   [39m[31m          [39m
- Cancel                             Intent Classifier   3         InProgrΓÇª           
- Confirm                            Intent Classifier   3         InProgrΓÇª           
- DirectionalReference               Entity Extractor    3         InProgrΓÇª           
- Escalate                           Intent Classifier   3         InProgrΓÇª           
- FinishTask                         Intent Classifier   3         InProgrΓÇª           
- GoBack                             Intent Classifier   3         InProgrΓÇª           
- Help                               Intent Classifier   3         InProgrΓÇª           
- Logout                             Intent Classifier   3         InProgrΓÇª           
- None                               Intent Classifier   3         InProgrΓÇª           
- ReadAloud                          Intent Classifier   3         InProgrΓÇª           
- Reject                             Intent Classifier   3         InProgrΓÇª           
- Repeat                             Intent Classifier   3         InProgrΓÇª           
- SelectAny                          Intent Classifier   3         InProgrΓÇª           
- SelectItem                         Intent Classifier   3         InProgrΓÇª           
- SelectNone                         Intent Classifier   3         InProgrΓÇª           
- ShowNext                           Intent Classifier   3         InProgrΓÇª           
- ShowPrevious                       Intent Classifier   3         InProgrΓÇª           
- StartOver                          Intent Classifier   3         InProgrΓÇª           
- Stop                               Intent Classifier   3         InProgrΓÇª           
-[31m Model                             [39m[31m Type               [39m[31m StatusId [39m[31m Status   [39m[31m          [39m
- Cancel                             Intent Classifier   3         InProgrΓÇª           
- Confirm                            Intent Classifier   3         InProgrΓÇª           
- DirectionalReference               Entity Extractor    3         InProgrΓÇª           
- Escalate                           Intent Classifier   3         InProgrΓÇª           
- FinishTask                         Intent Classifier   3         InProgrΓÇª           
- GoBack                             Intent Classifier   3         InProgrΓÇª           
- Help                               Intent Classifier   3         InProgrΓÇª           
- Logout                             Intent Classifier   3         InProgrΓÇª           
- None                               Intent Classifier   3         InProgrΓÇª           
- ReadAloud                          Intent Classifier   3         InProgrΓÇª           
- Reject                             Intent Classifier   3         InProgrΓÇª           
- Repeat                             Intent Classifier   3         InProgrΓÇª           
- SelectAny                          Intent Classifier   3         InProgrΓÇª           
- SelectItem                         Intent Classifier   3         InProgrΓÇª           
- SelectNone                         Intent Classifier   3         InProgrΓÇª           
- ShowNext                           Intent Classifier   3         InProgrΓÇª           
- ShowPrevious                       Intent Classifier   3         InProgrΓÇª           
- StartOver                          Intent Classifier   3         InProgrΓÇª           
- Stop                               Intent Classifier   3         InProgrΓÇª           
-[31m Model                             [39m[31m Type               [39m[31m StatusId [39m[31m Status   [39m[31m          [39m
- Cancel                             Intent Classifier   3         InProgrΓÇª           
- Confirm                            Intent Classifier   3         InProgrΓÇª           
- DirectionalReference               Entity Extractor    3         InProgrΓÇª           
- Escalate                           Intent Classifier   3         InProgrΓÇª           
- FinishTask                         Intent Classifier   3         InProgrΓÇª           
- GoBack                             Intent Classifier   3         InProgrΓÇª           
- Help                               Intent Classifier   3         InProgrΓÇª           
- Logout                             Intent Classifier   3         InProgrΓÇª           
- None                               Intent Classifier   3         InProgrΓÇª           
- ReadAloud                          Intent Classifier   3         InProgrΓÇª           
- Reject                             Intent Classifier   3         InProgrΓÇª           
- Repeat                             Intent Classifier   3         InProgrΓÇª           
- SelectAny                          Intent Classifier   3         InProgrΓÇª           
- SelectItem                         Intent Classifier   3         InProgrΓÇª           
- SelectNone                         Intent Classifier   3         InProgrΓÇª           
- ShowNext                           Intent Classifier   3         InProgrΓÇª           
- ShowPrevious                       Intent Classifier   3         InProgrΓÇª           
- StartOver                          Intent Classifier   3         InProgrΓÇª           
- Stop                               Intent Classifier   3         InProgrΓÇª           
-[31m Model                             [39m[31m Type               [39m[31m StatusId [39m[31m Status   [39m[31m          [39m
- Cancel                             Intent Classifier   3         InProgrΓÇª           
- Confirm                            Intent Classifier   3         InProgrΓÇª           
- DirectionalReference               Entity Extractor    3         InProgrΓÇª           
- Escalate                           Intent Classifier   3         InProgrΓÇª           
- FinishTask                         Intent Classifier   3         InProgrΓÇª           
- GoBack                             Intent Classifier   3         InProgrΓÇª           
- Help                               Intent Classifier   3         InProgrΓÇª           
- Logout                             Intent Classifier   3         InProgrΓÇª           
- None                               Intent Classifier   3         InProgrΓÇª           
- ReadAloud                          Intent Classifier   3         InProgrΓÇª           
- Reject                             Intent Classifier   3         InProgrΓÇª           
- Repeat                             Intent Classifier   3         InProgrΓÇª           
- SelectAny                          Intent Classifier   3         InProgrΓÇª           
- SelectItem                         Intent Classifier   3         InProgrΓÇª           
- SelectNone                         Intent Classifier   3         InProgrΓÇª           
- ShowNext                           Intent Classifier   3         InProgrΓÇª           
- ShowPrevious                       Intent Classifier   3         InProgrΓÇª           
- StartOver                          Intent Classifier   3         InProgrΓÇª           
- Stop                               Intent Classifier   3         InProgrΓÇª           
-[31m Model                             [39m[31m Type               [39m[31m StatusId [39m[31m Status   [39m[31m          [39m
- Cancel                             Intent Classifier   3         InProgrΓÇª           
- Confirm                            Intent Classifier   3         InProgrΓÇª           
- DirectionalReference               Entity Extractor    3         InProgrΓÇª           
- Escalate                           Intent Classifier   3         InProgrΓÇª           
- FinishTask                         Intent Classifier   3         InProgrΓÇª           
- GoBack                             Intent Classifier   3         InProgrΓÇª           
- Help                               Intent Classifier   3         InProgrΓÇª           
- Logout                             Intent Classifier   3         InProgrΓÇª           
- None                               Intent Classifier   3         InProgrΓÇª           
- ReadAloud                          Intent Classifier   3         InProgrΓÇª           
- Reject                             Intent Classifier   3         InProgrΓÇª           
- Repeat                             Intent Classifier   3         InProgrΓÇª           
- SelectAny                          Intent Classifier   3         InProgrΓÇª           
- SelectItem                         Intent Classifier   3         InProgrΓÇª           
- SelectNone                         Intent Classifier   3         InProgrΓÇª           
- ShowNext                           Intent Classifier   3         InProgrΓÇª           
- ShowPrevious                       Intent Classifier   3         InProgrΓÇª           
- StartOver                          Intent Classifier   3         InProgrΓÇª           
- Stop                               Intent Classifier   3         InProgrΓÇª           
-[31m Model                             [39m[31m Type               [39m[31m StatusId [39m[31m Status   [39m[31m          [39m
- Cancel                             Intent Classifier   3         InProgrΓÇª           
- Confirm                            Intent Classifier   3         InProgrΓÇª           
- DirectionalReference               Entity Extractor    3         InProgrΓÇª           
- Escalate                           Intent Classifier   3         InProgrΓÇª           
- FinishTask                         Intent Classifier   3         InProgrΓÇª           
- GoBack                             Intent Classifier   3         InProgrΓÇª           
- Help                               Intent Classifier   3         InProgrΓÇª           
- Logout                             Intent Classifier   3         InProgrΓÇª           
- None                               Intent Classifier   3         InProgrΓÇª           
- ReadAloud                          Intent Classifier   3         InProgrΓÇª           
- Reject                             Intent Classifier   3         InProgrΓÇª           
- Repeat                             Intent Classifier   3         InProgrΓÇª           
- SelectAny                          Intent Classifier   3         InProgrΓÇª           
- SelectItem                         Intent Classifier   3         InProgrΓÇª           
- SelectNone                         Intent Classifier   3         InProgrΓÇª           
- ShowNext                           Intent Classifier   3         InProgrΓÇª           
- ShowPrevious                       Intent Classifier   3         InProgrΓÇª           
- StartOver                          Intent Classifier   3         InProgrΓÇª           
- Stop                               Intent Classifier   3         InProgrΓÇª           
-[31m Model                             [39m[31m Type               [39m[31m StatusId [39m[31m Status   [39m[31m          [39m
- Cancel                             Intent Classifier   3         InProgrΓÇª           
- Confirm                            Intent Classifier   3         InProgrΓÇª           
- DirectionalReference               Entity Extractor    3         InProgrΓÇª           
- Escalate                           Intent Classifier   3         InProgrΓÇª           
- FinishTask                         Intent Classifier   3         InProgrΓÇª           
- GoBack                             Intent Classifier   3         InProgrΓÇª           
- Help                               Intent Classifier   3         InProgrΓÇª           
- Logout                             Intent Classifier   3         InProgrΓÇª           
- None                               Intent Classifier   3         InProgrΓÇª           
- ReadAloud                          Intent Classifier   3         InProgrΓÇª           
- Reject                             Intent Classifier   3         InProgrΓÇª           
- Repeat                             Intent Classifier   3         InProgrΓÇª           
- SelectAny                          Intent Classifier   3         InProgrΓÇª           
- SelectItem                         Intent Classifier   3         InProgrΓÇª           
- SelectNone                         Intent Classifier   3         InProgrΓÇª           
- ShowNext                           Intent Classifier   3         InProgrΓÇª           
- ShowPrevious                       Intent Classifier   3         InProgrΓÇª           
- StartOver                          Intent Classifier   3         InProgrΓÇª           
- Stop                               Intent Classifier   3         InProgrΓÇª           
-[31m Model                             [39m[31m Type               [39m[31m StatusId [39m[31m Status   [39m[31m          [39m
- Cancel                             Intent Classifier   3         InProgrΓÇª           
- Confirm                            Intent Classifier   3         InProgrΓÇª           
- DirectionalReference               Entity Extractor    3         InProgrΓÇª           
- Escalate                           Intent Classifier   3         InProgrΓÇª           
- FinishTask                         Intent Classifier   3         InProgrΓÇª           
- GoBack                             Intent Classifier   3         InProgrΓÇª           
- Help                               Intent Classifier   3         InProgrΓÇª           
- Logout                             Intent Classifier   3         InProgrΓÇª           
- None                               Intent Classifier   3         InProgrΓÇª           
- ReadAloud                          Intent Classifier   3         InProgrΓÇª           
- Reject                             Intent Classifier   3         InProgrΓÇª           
- Repeat                             Intent Classifier   3         InProgrΓÇª           
- SelectAny                          Intent Classifier   3         InProgrΓÇª           
- SelectItem                         Intent Classifier   3         InProgrΓÇª           
- SelectNone                         Intent Classifier   3         InProgrΓÇª           
- ShowNext                           Intent Classifier   3         InProgrΓÇª           
- ShowPrevious                       Intent Classifier   3         InProgrΓÇª           
- StartOver                          Intent Classifier   3         InProgrΓÇª           
- Stop                               Intent Classifier   3         InProgrΓÇª           
-[31m Model                             [39m[31m Type               [39m[31m StatusId [39m[31m Status   [39m[31m          [39m
- Cancel                             Intent Classifier   3         InProgrΓÇª           
- Confirm                            Intent Classifier   3         InProgrΓÇª           
- DirectionalReference               Entity Extractor    3         InProgrΓÇª           
- Escalate                           Intent Classifier   3         InProgrΓÇª           
- FinishTask                         Intent Classifier   3         InProgrΓÇª           
- GoBack                             Intent Classifier   3         InProgrΓÇª           
- Help                               Intent Classifier   3         InProgrΓÇª           
- Logout                             Intent Classifier   3         InProgrΓÇª           
- None                               Intent Classifier   3         InProgrΓÇª           
- ReadAloud                          Intent Classifier   3         InProgrΓÇª           
- Reject                             Intent Classifier   3         InProgrΓÇª           
- Repeat                             Intent Classifier   3         InProgrΓÇª           
- SelectAny                          Intent Classifier   3         InProgrΓÇª           
- SelectItem                         Intent Classifier   3         InProgrΓÇª           
- SelectNone                         Intent Classifier   3         InProgrΓÇª           
- ShowNext                           Intent Classifier   3         InProgrΓÇª           
- ShowPrevious                       Intent Classifier   3         InProgrΓÇª           
- StartOver                          Intent Classifier   3         InProgrΓÇª           
- Stop                               Intent Classifier   3         InProgrΓÇª           
-[31m Model                             [39m[31m Type               [39m[31m StatusId [39m[31m Status   [39m[31m          [39m
- Logout                             Intent Classifier   0         Success            
- StartOver                          Intent Classifier   0         Success            
- FinishTask                         Intent Classifier   0         Success            
- Stop                               Intent Classifier   0         Success            
- ShowNext                           Intent Classifier   0         Success            
- Cancel                             Intent Classifier   0         Success            
- None                               Intent Classifier   0         Success            
- Escalate                           Intent Classifier   0         Success            
- Repeat                             Intent Classifier   0         Success            
- ReadAloud                          Intent Classifier   0         Success            
- ShowPrevious                       Intent Classifier   0         Success            
- SelectItem                         Intent Classifier   0         Success            
- Help                               Intent Classifier   0         Success            
- GoBack                             Intent Classifier   0         Success            
- SelectNone                         Intent Classifier   0         Success            
- SelectAny                          Intent Classifier   0         Success            
- Confirm                            Intent Classifier   0         Success            
- Reject                             Intent Classifier   0         Success            
- DirectionalReference               Entity Extractor    3         InProgrΓÇª           
-[31m Model                             [39m[31m Type               [39m[31m StatusId [39m[31m Status   [39m[31m          [39m
- Logout                             Intent Classifier   0         Success            
- StartOver                          Intent Classifier   0         Success            
- FinishTask                         Intent Classifier   0         Success            
- Stop                               Intent Classifier   0         Success            
- ShowNext                           Intent Classifier   0         Success            
- Cancel                             Intent Classifier   0         Success            
- None                               Intent Classifier   0         Success            
- Escalate                           Intent Classifier   0         Success            
- Repeat                             Intent Classifier   0         Success            
- ReadAloud                          Intent Classifier   0         Success            
- ShowPrevious                       Intent Classifier   0         Success            
- SelectItem                         Intent Classifier   0         Success            
- Help                               Intent Classifier   0         Success            
- GoBack                             Intent Classifier   0         Success            
- SelectNone                         Intent Classifier   0         Success            
- SelectAny                          Intent Classifier   0         Success            
- Confirm                            Intent Classifier   0         Success            
- Reject                             Intent Classifier   0         Success            
- DirectionalReference               Entity Extractor    3         InProgrΓÇª           
-[31m Model                             [39m[31m Type               [39m[31m StatusId [39m[31m Status   [39m[31m          [39m
- Cancel                             Intent Classifier   0         Success            
- Confirm                            Intent Classifier   0         Success            
- Escalate                           Intent Classifier   0         Success            
- FinishTask                         Intent Classifier   0         Success            
- GoBack                             Intent Classifier   0         Success            
- Help                               Intent Classifier   0         Success            
- Logout                             Intent Classifier   0         Success            
- None                               Intent Classifier   0         Success            
- ReadAloud                          Intent Classifier   0         Success            
- Reject                             Intent Classifier   0         Success            
- Repeat                             Intent Classifier   0         Success            
- SelectAny                          Intent Classifier   0         Success            
- SelectItem                         Intent Classifier   0         Success            
- SelectNone                         Intent Classifier   0         Success            
- ShowNext                           Intent Classifier   0         Success            
- ShowPrevious                       Intent Classifier   0         Success            
- StartOver                          Intent Classifier   0         Success            
- Stop                               Intent Classifier   0         Success            
- DirectionalReference               Entity Extractor    0         Success            
+
+An application with the same name (KATAssistanten_general) already exists.
+
+LUIS Command Line Interface - ┬⌐ 2018 Microsoft Corporation
+
+Imports an application to LUIS, the application's structure should be included in in the request body.
+
+Usage:
+luis import application --in jSONApp.json --appName <string>
+
+Command arguments are:
+ --in (required)   The object to send in the body of the request                                                                                                                                                    
+                   {                                                                                                                                                                                                
+                     "intents": [                                                                                                                                                                                   
+                       {                                                                                                                                                                                            
+                         "name": "Greeting"                                                                                                                                                                         
+                       }                                                                                                                                                                                            
+                     ],                                                                                                                                                                                             
+                     "entities": [                                                                                                                                                                                  
+                       {                                                                                                                                                                                            
+                         "name": "userName",                                                                                                                                                                        
+                         "roles": []                                                                                                                                                                                
+                       }                                                                                                                                                                                            
+                     ],                                                                                                                                                                                             
+                     "composites": [],                                                                                                                                                                              
+                     "closedLists": [],                                                                                                                                                                             
+                     "regex_entities": [],                                                                                                                                                                          
+                     "model_features": [],                                                                                                                                                                          
+                     "regex_features": [],                                                                                                                                                                          
+                     "utterances": [                                                                                                                                                                                
+                       {                                                                                                                                                                                            
+                         "text": "Hi",                                                                                                                                                                              
+                         "intent": "Greeting",                                                                                                                                                                      
+                         "entities": []                                                                                                                                                                             
+                       }                                                                                                                                                                                            
+                     ],                                                                                                                                                                                             
+                     "patterns": [],                                                                                                                                                                                
+                     "patternAnyEntities": [],                                                                                                                                                                      
+                     "prebuiltEntities": [],                                                                                                                                                                        
+                     "luis_schema_version": "3.0.0",                                                                                                                                                                
+                     "versionId": "0.1",                                                                                                                                                                            
+                     "name": "test1",                                                                                                                                                                               
+                     "desc": "",                                                                                                                                                                                    
+                     "culture": "en-us"                                                                                                                                                                             
+                   }                                                                                                                                                                                                
+ --appName         The application name to create. If not specified, the application name will be read from the imported object.                                                                                    
+ <string>                                                                                                                                                                                                           
+ --msbot           (OPTIONAL) Format the output as json for piping into msbot connect luis command                                                                                                                  
+
+Configuration and Overrides:
+ --appId           Specifies the public LUIS application id. Overrides the .luisrc value and the LUIS_APP_ID environment variable.                                                                                  
+ --authoringKey    Specifies the LUIS authoring  key (from luis.ai portal user settings page). Overrides the .luisrc value and the LUIS_AUTHORING_KEY environment variable.                                         
+ --subscriptionKΓÇª  Specifies the LUIS subscriptionKey. Overrides the .luisrc value and the LUIS_SUBSCRIPTION_KEY environment variable.                                                                              
+ --versionId       Specifies the version id. Overrides the .luisrc value and the LUIS_VERSION_ID environment variable.                                                                                              
+ --region          Specifies the authoring region for all requests. [westus|westeurope|australiaeast] Overrides the .luisrc value and the LUIS_REGION environment variable.                                         
+ --stdin           Pull in service keys from stdin in the format of that is the output of: msbot get service                                                                                                        
+ --prefix          Appends [luis-apis] prefix to all messages                                                                                                                                                       
+
+Global Arguments:
+ --help,    -h     Prints this help file.                                                                                                                                                                           
+ --version, -v     Prints the version of this cli tool                                                                                                                                                              
+ --force,   -f     Do not prompt for confirmation, force the operation                                                                                                                                              
+ --!               Dumps all documented commands to the console with descriptions                                                                                                                                   
+
+'
+Running.              '
+Running..              '
+Running...              '
+Running....              '
+Running.....              '
+Running......              '
+Running.......              '
+Running........              '
+Running.........              '
+Running..........              '
+Succeeded...........              done
 '
 NotStarted.              '
 Running..              '
@@ -308,12 +84,7 @@ Running......              '
 Running.......              '
 Running........              '
 Running.........              '
-Running..........              '
-Running...........              '
-Running............              '
-Running.............              '
-Running..............              '
-Succeeded...............              done
+Succeeded..........              done
 '
 NotStarted.              '
 Running..              '
@@ -327,31 +98,28 @@ Running.........              '
 Running..........              '
 Succeeded...........              done
 Exporting services for dispatch...
-Exporting KATAssistanten_general LUIS application...
-Exported LUIS app JSON is at C:\Users\fsmith\Documents\GitHub\FirstAssistant\FirstAssistant\FirstAssistant\Deployment\Resources\Dispatch\en\data\_L_KATAssistanten_general.json
 Exporting chitchat QnA kb...
 Exported QnA app JSON is at C:\Users\fsmith\Documents\GitHub\FirstAssistant\FirstAssistant\FirstAssistant\Deployment\Resources\Dispatch\en\data\_Q_q_chitchat.json
-Expanding kb a3c6c0be-4fac-42d0-b4ef-a614b77f0cae with word alterations
+Expanding kb c632ab4d-85ba-47ee-a740-9726568f6bea with word alterations
 Exporting faq QnA kb...
 Exported QnA app JSON is at C:\Users\fsmith\Documents\GitHub\FirstAssistant\FirstAssistant\FirstAssistant\Deployment\Resources\Dispatch\en\data\_Q_q_faq.json
-Expanding kb 8d20c84c-241a-4c02-a3b9-0a7dfb198de5 with word alterations
+Expanding kb 5ab5863a-4501-4eea-9225-ca53799a4092 with word alterations
+Exporting katbot_kb QnA kb...
+Exported QnA app JSON is at C:\Users\fsmith\Documents\GitHub\FirstAssistant\FirstAssistant\FirstAssistant\Deployment\Resources\Dispatch\en\data\_Q_q_katbot_kb.json
+Expanding kb 05607834-9c69-49cf-b28c-00fa1a233a78 with word alterations
 Creating dispatch LUIS model json...
 Creating training data...
-WARNING: Number of samples in 'C:\Users\fsmith\Documents\GitHub\FirstAssistant\FirstAssistant\FirstAssistant\Deployment\Resources\Dispatch\en\data\_experiments\model_001\train.txt' that were used by multiple categories: 11
-WARNING: very few samples (breaking-point for debugging purpose), foldSize=0.6, foldsCount=5, Samples.Length=3, category=None, TrainingSamplesCount=2, TestingSamplesCount=1
-WARNING: Number of samples in 'C:\Users\fsmith\Documents\GitHub\FirstAssistant\FirstAssistant\FirstAssistant\Deployment\Resources\Dispatch\en\data\_experiments\model_001\cv5\fold000\train.txt' that were used by multiple categories: 7
-WARNING: Number of samples in 'C:\Users\fsmith\Documents\GitHub\FirstAssistant\FirstAssistant\FirstAssistant\Deployment\Resources\Dispatch\en\data\_experiments\model_001\cv5\fold000\test.txt' that were used by multiple categories: 1
-WARNING: Number of samples in 'C:\Users\fsmith\Documents\GitHub\FirstAssistant\FirstAssistant\FirstAssistant\Deployment\Resources\Dispatch\en\data\_experiments\model_001\cv5\fold001\train.txt' that were used by multiple categories: 9
-WARNING: Number of samples in 'C:\Users\fsmith\Documents\GitHub\FirstAssistant\FirstAssistant\FirstAssistant\Deployment\Resources\Dispatch\en\data\_experiments\model_001\cv5\fold002\train.txt' that were used by multiple categories: 4
-WARNING: Number of samples in 'C:\Users\fsmith\Documents\GitHub\FirstAssistant\FirstAssistant\FirstAssistant\Deployment\Resources\Dispatch\en\data\_experiments\model_001\cv5\fold002\test.txt' that were used by multiple categories: 2
-WARNING: Number of samples in 'C:\Users\fsmith\Documents\GitHub\FirstAssistant\FirstAssistant\FirstAssistant\Deployment\Resources\Dispatch\en\data\_experiments\model_001\cv5\fold003\train.txt' that were used by multiple categories: 6
-WARNING: Number of samples in 'C:\Users\fsmith\Documents\GitHub\FirstAssistant\FirstAssistant\FirstAssistant\Deployment\Resources\Dispatch\en\data\_experiments\model_001\cv5\fold004\train.txt' that were used by multiple categories: 10
+WARNING: Number of samples in 'C:\Users\fsmith\Documents\GitHub\FirstAssistant\FirstAssistant\FirstAssistant\Deployment\Resources\Dispatch\en\data\_experiments\model_001\train.txt' that were used by multiple categories: 4
+WARNING: Number of samples in 'C:\Users\fsmith\Documents\GitHub\FirstAssistant\FirstAssistant\FirstAssistant\Deployment\Resources\Dispatch\en\data\_experiments\model_001\cv5\fold000\train.txt' that were used by multiple categories: 3
+WARNING: Number of samples in 'C:\Users\fsmith\Documents\GitHub\FirstAssistant\FirstAssistant\FirstAssistant\Deployment\Resources\Dispatch\en\data\_experiments\model_001\cv5\fold001\train.txt' that were used by multiple categories: 3
+WARNING: Number of samples in 'C:\Users\fsmith\Documents\GitHub\FirstAssistant\FirstAssistant\FirstAssistant\Deployment\Resources\Dispatch\en\data\_experiments\model_001\cv5\fold002\train.txt' that were used by multiple categories: 1
+WARNING: Number of samples in 'C:\Users\fsmith\Documents\GitHub\FirstAssistant\FirstAssistant\FirstAssistant\Deployment\Resources\Dispatch\en\data\_experiments\model_001\cv5\fold002\test.txt' that were used by multiple categories: 1
+WARNING: Number of samples in 'C:\Users\fsmith\Documents\GitHub\FirstAssistant\FirstAssistant\FirstAssistant\Deployment\Resources\Dispatch\en\data\_experiments\model_001\cv5\fold003\train.txt' that were used by multiple categories: 3
+WARNING: Number of samples in 'C:\Users\fsmith\Documents\GitHub\FirstAssistant\FirstAssistant\FirstAssistant\Deployment\Resources\Dispatch\en\data\_experiments\model_001\cv5\fold004\train.txt' that were used by multiple categories: 4
 Updating KATAssistanten_Dispatch model...
-Training KATAssistanten_general...
 Importing KATAssistanten_Dispatch model...
 Setting up intents to child services mapping for KATAssistanten_Dispatch...
 Add subscription key and publish child LUIS apps...
-Publishing KATAssistanten_general model...
 Training KATAssistanten_Dispatch model...
 Publishing KATAssistanten_Dispatch model...
 Writing summary file ('test_prediction')...

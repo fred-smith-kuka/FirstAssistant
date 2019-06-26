@@ -17,29 +17,21 @@
           "id": "chitchat",
           "kbId": "a3c6c0be-4fac-42d0-b4ef-a614b77f0cae",
           "subscriptionKey": "1379939522f8491484a210b26c331825",
-          "hostname": "https://katassistant-qnahost.azurewebsites.net",
+          "hostname": "https://katassistant-qnahost.azurewebsites.net/qnamaker",
           "endpointKey": "719a58d6-4515-4c17-86de-7d0c8400ab72",
           "name": "chitchat"
         },
         {
-          "id": "faq",
-          "kbId": "8d20c84c-241a-4c02-a3b9-0a7dfb198de5",
-          "subscriptionKey": "1379939522f8491484a210b26c331825",
-          "hostname": "https://katassistant-qnahost.azurewebsites.net",
-          "endpointKey": "719a58d6-4515-4c17-86de-7d0c8400ab72",
-          "name": "faq"
-        },
-        {
           "id": "katbot_kb",
-          "kbId": "3d2cd4fe-d981-4c24-8071-902aa92b8979",
+          "kbId": "05607834-9c69-49cf-b28c-00fa1a233a78",
           "subscriptionKey": "87435d3e222e4eff9c8d6e865ccf9fa8",
-          "hostname": " https://katbotkb.azurewebsites.net/qnamaker",
-          "endpointKey": "1c33b6e8-d140-4425-8240-419bda47e52b",
-          "name": "katbot_kb_data"
+          "hostname": " https://katassistant-qnahost.azurewebsites.net/qnamaker",
+          "endpointKey": "719a58d6-4515-4c17-86de-7d0c8400ab72",
+          "name": "katbot_kb"
         }
       ],
       "dispatchModel": {
-        "appid": "5b5bc801-50ce-4b67-8704-6819fa7121fb",
+        "appid": "7e017a54-905b-4a4d-81e4-607c1fa45569",
         "type": "dispatch",
         "subscriptionkey": "1d4856d56b274174aa823b244d4ba465",
         "region": "westus",

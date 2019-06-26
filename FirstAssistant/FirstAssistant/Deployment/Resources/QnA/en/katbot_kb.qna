@@ -1,0 +1,37 @@
+{
+  "urls": [],
+  "qnaList": [
+    {
+      "id": 0,
+      "answer": "Information about Expenses can be found on our HR page [HERE](https://kuka.sharepoint.com/sites/Americas-KATSharepoint/KAT_HR/SitePages/Expenses.aspx)",
+      "source": "custom editorial",
+      "questions": [
+        "How do I submit an expense?"
+      ],
+      "metadata": []
+    },
+    {
+      "id": 0,
+      "answer": "Hello KAT user! How may I help you?",
+      "source": "custom editorial",
+      "questions": [
+        "Hi",
+        "Hello"
+      ],
+      "metadata": []
+    },
+    {
+      "id": 0,
+      "answer": "Here are the topics I can find regarding Jira.",
+      "source": "custom editorial",
+      "questions": [
+        "Help with Jira",
+        "Jira?",
+        "What is Jira?"
+      ],
+      "metadata": []
+    }
+  ],
+  "files": [],
+  "name": "katbot_kb"
+}

@@ -1,21 +1,16 @@
-LUIS app :b6acf3be-a6e9-4033-9bf4-42484154d4f2 already added to KATAssistanten_Dispatch.dispatch
 QnA kb id:a3c6c0be-4fac-42d0-b4ef-a614b77f0cae, name:chitchat already added to KATAssistanten_Dispatch.dispatch
-QnA kb id:8d20c84c-241a-4c02-a3b9-0a7dfb198de5, name:faq already added to KATAssistanten_Dispatch.dispatch
-QnA kb id:3d2cd4fe-d981-4c24-8071-902aa92b8979, name:katbot_kb_data already added to KATAssistanten_Dispatch.dispatch
+QnA kb id:05607834-9c69-49cf-b28c-00fa1a233a78, name:katbot_kb already added to KATAssistanten_Dispatch.dispatch
 Exporting services for dispatch...
-Exporting KATAssistanten_general LUIS application...
-Exported LUIS app JSON is at C:\Users\fsmith\Documents\GitHub\FirstAssistant\FirstAssistant\FirstAssistant\Deployment\Resources\Dispatch\en\data\_L_KATAssistanten_general.json
 Exporting chitchat QnA kb...
-Exported QnA app JSON is at C:\Users\fsmith\Documents\GitHub\FirstAssistant\FirstAssistant\FirstAssistant\Deployment\Resources\Dispatch\en\data\_Q_q_chitchat.json
-Expanding kb a3c6c0be-4fac-42d0-b4ef-a614b77f0cae with word alterations
-Exporting faq QnA kb...
-Exported QnA app JSON is at C:\Users\fsmith\Documents\GitHub\FirstAssistant\FirstAssistant\FirstAssistant\Deployment\Resources\Dispatch\en\data\_Q_q_faq.json
-Expanding kb 8d20c84c-241a-4c02-a3b9-0a7dfb198de5 with word alterations
-Exporting katbot_kb_data QnA kb...
 
 ERROR
-One or more errors occurred. (The remote server returned an error: (401) Access Denied.)
+One or more errors occurred. (The remote server returned an error: (404) Not Found.)
 
-Request url: https://westus.api.cognitive.microsoft.com/qnamaker/v4.0/knowledgebases/3d2cd4fe-d981-4c24-8071-902aa92b8979/Test/qna
-Response: {"error":{"code":"401","message": "Access denied due to invalid subscription key. Make sure to provide a valid key for an active subscription."}}
+Request url: https://westus.api.cognitive.microsoft.com/qnamaker/v4.0/knowledgebases/c632ab4d-85ba-47ee-a740-9726568f6bea/Test/qna
+Response: {
+  "error": {
+    "code": "KbNotFound",
+    "message": "Knowledge base not found."
+  }
+}
 ------
